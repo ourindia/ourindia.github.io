@@ -22,8 +22,13 @@ body {
     background-color: aqua;
     font-size: x-large;
   }
+  .paraa {
+    text-align: center;
+    background-color: aqua;
+    font-size: x-large;
+  }
   .divs {
-    width: 200px;
+    width: 400px;
     float: right;
   }
   * {
