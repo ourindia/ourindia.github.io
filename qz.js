@@ -11,21 +11,21 @@ function c1() {
 function c2() {
     var text = document.getElementById("a2");
     var a = text.value;
-    if (a == "himachal Pradesh") {
+    if (a == "himachal pradesh") {
         document.getElementById("demo2").innerHTML = "Your answer is correct";
     } else {
         document.getElementById("demo2").innerHTML =
-            "Your answer is wrong. correct answer is himachal Pradesh.";
+            "Your answer is wrong. correct answer is himachal pradesh.";
     }
 }
 function c3() {
     var text = document.getElementById("a3");
     var a = text.value;
-    if (a == "vasco de Gama") {
+    if (a == "vasco de gama") {
         document.getElementById("demo3").innerHTML = "Your answer is correct";
     } else {
         document.getElementById("demo3").innerHTML =
-            "Your answer is wrong. correct answer is vasco de Gama.";
+            "Your answer is wrong. correct answer is vasco de gama.";
     }
 }
 function c4() {
@@ -41,11 +41,11 @@ function c4() {
 function c5() {
     var text = document.getElementById("a5");
     var a = text.value;
-    if (a == "arunachal Pradesh") {
+    if (a == "arunachal pradesh") {
         document.getElementById("demo5").innerHTML = "Your answer is correct";
     } else {
         document.getElementById("demo5").innerHTML =
-            "Your answer is wrong. correct answer is arunachal Pradesh.";
+            "Your answer is wrong. correct answer is arunachal pradesh.";
     }
 }
 function c6() {
