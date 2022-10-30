@@ -1,4 +1,5 @@
 body {
+  background-image: url('/images/bg.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -37,6 +38,11 @@ body {
   .divsss {
     width: 300px;
     float: left;
+  }
+  .divssss {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
   }
   * {
     margin: 5px;
